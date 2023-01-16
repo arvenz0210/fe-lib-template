@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "build": "tsc --project tsconfig.json",
-    "c": "changesets"
+    "c": "changeset"
   },
   "devDependencies": {
     "@changesets/cli": "^2.26.0",
