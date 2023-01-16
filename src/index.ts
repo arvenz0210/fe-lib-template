@@ -1,2 +1,1 @@
-const asdas: string = "faicl";
-console.log(asdas);
+console.log('FFFFFFUUUAAP')
