@@ -1,1 +1,1 @@
-console.log('Ya supissste?')
+console.log("Ya supissste?, fuuuap");
